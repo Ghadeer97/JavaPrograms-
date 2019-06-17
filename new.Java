@@ -1,1 +1,1 @@
-JavaPrograms
+System.out.println("Hello world");
